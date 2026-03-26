@@ -108,10 +108,3 @@ This project is licensed under the MIT License – feel free to use and modify i
 Md Moklesar Rahman (Bappy)
 - GitHub: @Md-Moklesar-Rahman-Bappy
 - Live Demo: UberClone
-
----
-
-✅ This README integrates the **repo details, tutorial links, Firebase/Google Maps setup, and PayPal integration guide**.  
-
-👉 Would you like me to also add a **workflow diagram** (showing Rider → Request → Driver → Payment → Firebase) so the README visually explains the app flow?
-
