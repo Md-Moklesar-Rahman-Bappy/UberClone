@@ -49,7 +49,7 @@ GitHub Repository: [UberClone](https://github.com/Md-Moklesar-Rahman-Bappy/UberC
 
 ---
 
-2. **Firebase Setup**
+### 2. Firebase Setup
 1. Create a Firebase project: [Firebase Console](https://console.firebase.google.com/).
 2. Import google-services.json into your project.
 3. Change Pay Plan to Flame or Blaze.
@@ -58,14 +58,14 @@ GitHub Repository: [UberClone](https://github.com/Md-Moklesar-Rahman-Bappy/UberC
 
 ---
 
-3. **Google Maps Setup**
+### 3. Google Maps Setup
 1. Add your project to the [Google API Console](https://console.cloud.google.com/).
 2. Enable Google Maps API and Google Places API.
 3. Add your API key to res/values/strings.xml under google_maps_key.
 
 ---
  
-4. **PayPal Integration**
+### 4. PayPal Integration
 1. Install Node.js.
 2. Create a PayPal developer app and enable payouts.
 3. Add PayPal credentials to your Node.js project.
